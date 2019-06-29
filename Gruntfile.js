@@ -53,7 +53,7 @@ module.exports = function (grunt) {
         checktextdomain: {
             standard: {
                 options: {
-                    text_domain: ['<%= pkg.name %>', 'sunnypixels'], //Specify allowed domain(s)
+                    text_domain: ['<%= pkg.name %>', 'addthis-share', 'sunnypixels'], //Specify allowed domain(s)
                     create_report_file: 'true',
                     keywords: [ //List keyword specifications
                         '__:1,2d',

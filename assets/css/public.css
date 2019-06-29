@@ -1,0 +1,94 @@
+/**
+ * Public styles
+ */
+.mdl-share-buttons.mdl-share-buttons--top .mdl-share-buttons__wrapper, .mdl-share-buttons.mdl-share-buttons--footer .mdl-share-buttons__wrapper {
+  display: inline-block;
+  height: 36px;
+  line-height: 36px;
+  position: relative;
+  vertical-align: middle;
+  overflow: hidden;
+}
+.mdl-share-buttons.mdl-share-buttons--top .mdl-share-buttons__wrapper .addthis_toolbox.addthis_default_style.addthis_mdl_style .addthis_toolbox__item .at-icon-wrapper, .mdl-share-buttons.mdl-share-buttons--footer .mdl-share-buttons__wrapper .addthis_toolbox.addthis_default_style.addthis_mdl_style .addthis_toolbox__item .at-icon-wrapper {
+  background: transparent !important;
+}
+.mdl-share-buttons.mdl-share-buttons--top .mdl-share-buttons__wrapper .addthis_toolbox.addthis_default_style.addthis_mdl_style .addthis_toolbox__item .at-icon-wrapper > svg, .mdl-share-buttons.mdl-share-buttons--footer .mdl-share-buttons__wrapper .addthis_toolbox.addthis_default_style.addthis_mdl_style .addthis_toolbox__item .at-icon-wrapper > svg {
+  fill: #9E9E9E !important;
+}
+.mdl-share-buttons.mdl-share-buttons--top .mdl-share-buttons__wrapper .addthis_toolbox.addthis_default_style.addthis_32x32_style .addthis_toolbox__item, .mdl-share-buttons.mdl-share-buttons--footer .mdl-share-buttons__wrapper .addthis_toolbox.addthis_default_style.addthis_32x32_style .addthis_toolbox__item {
+  margin-bottom: 0;
+  text-align: center;
+}
+.mdl-share-buttons.mdl-share-buttons--top .mdl-share-buttons__wrapper .addthis_toolbox.addthis_default_style.addthis_32x32_style .addthis_toolbox__item .at-icon-wrapper, .mdl-share-buttons.mdl-share-buttons--footer .mdl-share-buttons__wrapper .addthis_toolbox.addthis_default_style.addthis_32x32_style .addthis_toolbox__item .at-icon-wrapper {
+  line-height: 36px !important;
+  height: 36px !important;
+  width: 36px !important;
+  border-radius: 18px;
+  position: relative;
+}
+.mdl-share-buttons.mdl-share-buttons--top .mdl-share-buttons__wrapper .addthis_toolbox.addthis_default_style.addthis_32x32_style .addthis_toolbox__item .at-icon-wrapper:after, .mdl-share-buttons.mdl-share-buttons--footer .mdl-share-buttons__wrapper .addthis_toolbox.addthis_default_style.addthis_32x32_style .addthis_toolbox__item .at-icon-wrapper:after {
+  content: "";
+  background-color: transparent;
+  width: 100%;
+  height: 100%;
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  transition: box-shadow 0.2s cubic-bezier(0.4, 0, 1, 1), background-color 0.2s cubic-bezier(0.4, 0, 0.2, 1), color 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+}
+.mdl-share-buttons.mdl-share-buttons--top .mdl-share-buttons__wrapper .addthis_toolbox.addthis_default_style.addthis_32x32_style .addthis_toolbox__item .at-icon-wrapper:hover:after, .mdl-share-buttons.mdl-share-buttons--footer .mdl-share-buttons__wrapper .addthis_toolbox.addthis_default_style.addthis_32x32_style .addthis_toolbox__item .at-icon-wrapper:hover:after {
+  background-color: rgba(158, 158, 158, 0.2);
+}
+.mdl-share-buttons.mdl-share-buttons--top .mdl-share-buttons__wrapper .addthis_toolbox.addthis_default_style.addthis_32x32_style .addthis_toolbox__item .at-icon-wrapper > svg, .mdl-share-buttons.mdl-share-buttons--footer .mdl-share-buttons__wrapper .addthis_toolbox.addthis_default_style.addthis_32x32_style .addthis_toolbox__item .at-icon-wrapper > svg {
+  width: 26px !important;
+  height: 26px !important;
+}
+.mdl-share-buttons.mdl-share-buttons--top {
+  position: relative;
+}
+.mdl-share-buttons.mdl-share-buttons--top .mdl-share-buttons__wrapper {
+  position: absolute;
+  height: auto;
+  line-height: initial;
+  top: 36px;
+  display: none;
+  background: white;
+  animation: .7s ease 0s normal forwards 1 fadeIn;
+}
+.mdl-share-buttons.mdl-share-buttons--top .mdl-share-buttons__wrapper.active {
+  display: block;
+}
+.mdl-share-buttons.mdl-share-buttons--top .mdl-share-buttons__wrapper .addthis_toolbox.addthis_default_style.addthis_mdl_style .addthis_toolbox__item {
+  display: block;
+  float: none;
+}
+.mdl-share-buttons.mdl-share-buttons--footer .mdl-share-buttons__title {
+  color: rgba(0, 0, 0, 0.4) !important;
+  min-width: initial;
+}
+.mdl-share-buttons.mdl-share-buttons--floating {
+  position: fixed;
+  z-index: 1001;
+  right: 40px;
+  bottom: 40px;
+}
+.mdl-share-buttons.mdl-share-buttons--floating .addthis_toolbox_wrapper {
+  display: none;
+  position: absolute;
+  z-index: 1000;
+  bottom: 60px;
+  right: 5px;
+  animation: .7s ease 0s normal forwards 1 fadeIn;
+}
+.mdl-share-buttons.mdl-share-buttons--floating .addthis_toolbox_wrapper.active {
+  display: block;
+}
+.mdl-share-buttons.mdl-share-buttons--floating .addthis_toolbox .addthis_toolbox__item {
+  display: block;
+  float: none;
+}
+.mdl-share-buttons.mdl-share-buttons--floating .addthis_toolbox .addthis_toolbox__item > span {
+  border-radius: 100px;
+  padding: 5px;
+}

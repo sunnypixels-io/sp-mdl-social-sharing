@@ -1155,7 +1155,7 @@ if (!function_exists('addthis_get_share_vendors')) :
             $customizer = array();
 
             foreach ($vendors as $id => $service) :
-                $customizer[$id] = esc_html__($service['name']);
+                $customizer[$id] = esc_html($service['name']);
             endforeach;
             return $customizer;
         }

@@ -1,0 +1,1282 @@
+# Copyright (C) 2019 SunnyPixels
+# This file is distributed under the same license as the MDL Social Sharing package.
+msgid ""
+msgstr ""
+"Project-Id-Version: MDL Social Sharing 1.0.0\n"
+"Report-Msgid-Bugs-To: https://sunnypixels.io/\n"
+"POT-Creation-Date: 2019-06-29 22:58:01+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2019-MO-DA HO:MI+ZONE\n"
+"Last-Translator: SunnyPixels <info@sunnypixels.io>\n"
+"Language-Team: SunnyPixels <info@sunnypixels.io>\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: includes/addthis-share.php:20
+msgid ""
+"Using the service 100zakladok.ru you can remember all the links to "
+"interesting web pages that are found in the network."
+msgstr ""
+
+#: includes/addthis-share.php:26
+msgid ""
+"This service represents how often users share your site by copying the page "
+"URL from their address bar and sending it via email, IM or other channels."
+msgstr ""
+
+#: includes/addthis-share.php:32
+msgid ""
+"Adfty is a social bookmarking site where users can submit links and others "
+"can vote on them."
+msgstr ""
+
+#: includes/addthis-share.php:38
+msgid "Arabic Bookmarking site"
+msgstr ""
+
+#: includes/addthis-share.php:44
+msgid "Easy to use QR code generator."
+msgstr ""
+
+#: includes/addthis-share.php:50
+msgid ""
+"Add any item to your public Amazon.com Wish List. You can show everyone "
+"what you'd like for your birthday or special occasion."
+msgstr ""
+
+#: includes/addthis-share.php:56
+msgid ""
+"AmazonSmile is a simple and automatic way for you to support your favorite "
+"charitable organization every time you shop, at no cost to you."
+msgstr ""
+
+#: includes/addthis-share.php:62
+msgid ""
+"Find and vote for your favorite sites for Christians. Get an Amen! for your "
+"site."
+msgstr ""
+
+#: includes/addthis-share.php:68
+msgid ""
+"AIM Share allows you to share content from sites to your AIM Buddies. The "
+"content will appear in your Buddies' lifestream tab on their AIM Buddy List "
+"and on their lifestream: http://lifestream.aim.com. Share a site, article "
+"or video with your buddies. "
+msgstr ""
+
+#: includes/addthis-share.php:74
+msgid "Email by AOL, with address book."
+msgstr ""
+
+#: includes/addthis-share.php:80
+msgid ""
+"APSense is a web 2.0 enabled social network designed to help business "
+"owners, online marketers and affiliates build their own personal business "
+"network of contacts locally or on a global scale."
+msgstr ""
+
+#: includes/addthis-share.php:86
+msgid ""
+"Atavi is a free, yet extremely convenient, web service. Bookmark the "
+"websites you need, group them the way you want and sync the bookmarks with "
+"any device or browser."
+msgstr ""
+
+#: includes/addthis-share.php:92
+msgid "Baidu is a Chinese search engine for websites, audio files, and images"
+msgstr ""
+
+#: includes/addthis-share.php:98
+msgid ""
+"Balatarin is a Persian language social and political link-sharing website "
+"aimed primarily at Iranian audiences."
+msgstr ""
+
+#: includes/addthis-share.php:104
+msgid ""
+"Beat100 music video and social network allows users to upload music videos, "
+"MP3 music files, photos, advertise gigs and events whilst connecting with "
+"friends and other members using our social network and live chat room."
+msgstr ""
+
+#: includes/addthis-share.php:110
+msgid ""
+"bit.ly allows users to shorten, share, and track links (URLs). Reducing the "
+"URL length makes sharing easier."
+msgstr ""
+
+#: includes/addthis-share.php:116
+msgid ""
+"bizSugar is a small business community and  social media site where small "
+"businesses, entrepreneurs and startups can discover, share and vote for "
+"business tips and news on the web."
+msgstr ""
+
+#: includes/addthis-share.php:122
+msgid ""
+"Bland.is is the largest online marketplace in Iceland. Think of it as an "
+"Icelandic Craigslist."
+msgstr ""
+
+#: includes/addthis-share.php:128
+msgid ""
+"Blogger is a free blog publishing tool from Google for easily sharing your "
+"thoughts with the world."
+msgstr ""
+
+#: includes/addthis-share.php:134
+msgid ""
+"Blogkeen is a smart service that keeps you updated on all the blogs and "
+"RSS-feeds you follow"
+msgstr ""
+
+#: includes/addthis-share.php:140
+msgid ""
+"A social bookmarks manager that allows categorization via custom tags. "
+"Offers several tools to share content, including synchronization with a "
+"weblog."
+msgstr ""
+
+#: includes/addthis-share.php:146
+msgid ""
+"Keep tabs on the Internet, Use tags to systematize, Share links with "
+"friends, Create groups on favorite topics."
+msgstr ""
+
+#: includes/addthis-share.php:152
+msgid ""
+"BonzoBox allows you to save your bookmarks visually and build your own "
+"customized home page with live thumbnails of your favourite websites."
+msgstr ""
+
+#: includes/addthis-share.php:158
+msgid ""
+"Online drag &amp; drop organizer for categorization and sharing of personal "
+"links. "
+msgstr ""
+
+#: includes/addthis-share.php:164
+msgid ""
+"Remember now, read later. With Bookmerken you can quickly and easily "
+"highlight interesting links for reading later."
+msgstr ""
+
+#: includes/addthis-share.php:170
+msgid ""
+"Box.net is a trusted web-based service for accessing and sharing content "
+"from anywhere. Nearly 3 million individuals, small businesses, and Fortune "
+"1000 companies around the world use Box to easily connect with the content "
+"and people that matter most."
+msgstr ""
+
+#: includes/addthis-share.php:176
+msgid ""
+"Buffer is a simpler and easier way to schedule posts, track the performance "
+"of your content, and manage all your accounts in one place."
+msgstr ""
+
+#: includes/addthis-share.php:182
+msgid ""
+"Camyoo is a photo and video sharing site devoted to all the picture and "
+"video takers, lovers and critics!"
+msgstr ""
+
+#: includes/addthis-share.php:188
+msgid ""
+"Make it easy for everyone to live a healthy, green lifestyle and impact the "
+"causes they care about most."
+msgstr ""
+
+#: includes/addthis-share.php:194
+msgid "Exchange money quickly, easily, and for free."
+msgstr ""
+
+#: includes/addthis-share.php:200
+msgid ""
+"CiteULike is a free service to help you to store, organise and share the "
+"scholarly papers you are reading."
+msgstr ""
+
+#: includes/addthis-share.php:206
+msgid ""
+"This site was created for all people with technical knowledge, skills, or "
+"just technically curious. A great way to share new technology and ideas."
+msgstr ""
+
+#: includes/addthis-share.php:212
+msgid "Allow users to easily copy a link to share with others."
+msgstr ""
+
+#: includes/addthis-share.php:218
+msgid ""
+"One of the biggest Q&amp;A communities in Germany. Users can submit "
+"questions and experts will then research &amp; deliver your answer. COSMiQ "
+"also provides a Social Bookmarking-Service &quot;COSMiQ Links&quot;, that "
+"contains more than 115000 bookmarks."
+msgstr ""
+
+#: includes/addthis-share.php:224
+msgid ""
+"CSS Based is a project providing web designers a database of well designed "
+"css based websites from all around the world."
+msgstr ""
+
+#: includes/addthis-share.php:230
+msgid ""
+"Diary.Ru is one of the most popular online diary services in Russia. Users "
+"share their own diaries, read other people's diaries, communicate in groups "
+"and make friends."
+msgstr ""
+
+#: includes/addthis-share.php:236
+msgid ""
+"Digg is a place for people to discover and share content from anywhere on "
+"the web. From the biggest online destinations to the most obscure blog, "
+"Digg surfaces the best stuff as voted on by our users."
+msgstr ""
+
+#: includes/addthis-share.php:242
+msgid "Diggita is the Italian version of the American site Digg."
+msgstr ""
+
+#: includes/addthis-share.php:248
+msgid "Diigo is a powerful research tool and a knowledge-sharing community. "
+msgstr ""
+
+#: includes/addthis-share.php:254
+msgid ""
+"Douban is the main review based social network site in China. It is a "
+"Chinese online community for users to share opinions and create content "
+"related to movies, books, and music."
+msgstr ""
+
+#: includes/addthis-share.php:260
+msgid ""
+"Draugiem is the largest social networking website in Latvia with "
+"approximately 2.6 million registered users."
+msgstr ""
+
+#: includes/addthis-share.php:266
+msgid ""
+"EdCast is a knowledge network built to inspire, empower and educate "
+"individuals and organizations to get smarter with daily curated &amp; "
+"contextual bite-size insights (SmartBitesTM) with live access to "
+"influencers and Subject Matter Experts."
+msgstr ""
+
+#: includes/addthis-share.php:272
+msgid ""
+"AddThis menu email service with address book integration (Gmail, Yahoo "
+"Mail, AOL mail, and more)."
+msgstr ""
+
+#: includes/addthis-share.php:278
+msgid "AddThis menu mail program service"
+msgstr ""
+
+#: includes/addthis-share.php:284
+msgid ""
+"Evernote allows you to easily capture information in any environment using "
+"whatever device or platform you find most convenient, and makes this "
+"information accessible and searchable at any time, from anywhere. Did we "
+"mention that it's free?"
+msgstr ""
+
+#: includes/addthis-share.php:290
+msgid ""
+"Exchangle is a customized search engine where people from all around the "
+"world can share links for personal or business purposes."
+msgstr ""
+
+#: includes/addthis-share.php:296
+msgid ""
+"A bookmarking service and community to find the best design insights, "
+"furniture, decor, kitchen, bath, lighting and art. All the stores and sales "
+"in one place."
+msgstr ""
+
+#: includes/addthis-share.php:302
+msgid "Social network for women of &quot;age.&quot;"
+msgstr ""
+
+#: includes/addthis-share.php:308
+msgid ""
+"Facebook is a social utility that connects people with friends and others "
+"who work, study and live around them. People use Facebook to keep up with "
+"friends, upload an unlimited number of photos, post links and videos, and "
+"learn more about the people they meet."
+msgstr ""
+
+#: includes/addthis-share.php:314
+msgid "Facenama is the largest social network in Iran."
+msgstr ""
+
+#: includes/addthis-share.php:320
+msgid ""
+"Fai Informazione is an Italian social publishing service, where users can "
+"share their own information and vote articles proposed by other fellow "
+"users. Articles are ranked based on their content and their votes for quick "
+"retrieval of relevant information."
+msgstr ""
+
+#: includes/addthis-share.php:326
+msgid ""
+"Fancy is part store, blog, magazine and wishlist. It's a place to discover "
+"great stuff, to curate a collection of things you love, to get updates on "
+"your favorite brands and stores and to share your discoveries."
+msgstr ""
+
+#: includes/addthis-share.php:332
+msgid ""
+"Fashiolista introduces a new way to shop for fashion online. Think twitter, "
+"reinvented and redesigned by fashion victims. With Fashiolista you can "
+"share your unique style! Discover new fashion trends, brands and stores!"
+msgstr ""
+
+#: includes/addthis-share.php:338
+msgid ""
+"Favables is a simple, easy to use service that allows users to visualize, "
+"manage and share their favorite web sites."
+msgstr ""
+
+#: includes/addthis-share.php:344
+msgid "AddThis menu favorites service."
+msgstr ""
+
+#: includes/addthis-share.php:350
+msgid "Save, manage and backup your favorite links online."
+msgstr ""
+
+#: includes/addthis-share.php:356
+msgid ""
+"FinancialJuice is a live financial news and content aggregation social "
+"network. We provide Real-Time market updates from all the major news "
+"sources, bloggers, twitter personalities and YouTube."
+msgstr ""
+
+#: includes/addthis-share.php:362
+msgid ""
+"Flipboard is Your Personal Magazine. It's a single place to discover, "
+"collect and share the news you care about. Add your favorite social "
+"networks, publications and blogs to stay connected to the topics and people "
+"closest to you."
+msgstr ""
+
+#: includes/addthis-share.php:368
+msgid ""
+"Social bookmarking destination. Save your bookmarks online and share them "
+"with your friends."
+msgstr ""
+
+#: includes/addthis-share.php:374
+msgid ""
+"Online Dictionary - Multiple dictionaries including: English dictionary, "
+"medical dictionary, legal dictionary, financial dictionary, computer "
+"dictionary, thesaurus, dictionary of acronyms and abbreviations, dictionary "
+"of idioms, thesaurus, Columbia encyclopedia, Wikipedia encyclopedia, "
+"Hutchinson encyclopedia, examples from classic literature, pronunciations, "
+"word browser, glossary. Free access"
+msgstr ""
+
+#: includes/addthis-share.php:380
+msgid "GG is the largest Polish Instant Messenger service."
+msgstr ""
+
+#: includes/addthis-share.php:386
+msgid ""
+"Email by Google, with address book. Gmail is a web-based email service "
+"built on the idea that email can be more intuitive, efficient, and useful."
+msgstr ""
+
+#: includes/addthis-share.php:392
+msgid ""
+"Go.vn is the biggest social network in Vietnam serving purposes of "
+"education, entertainment and communication."
+msgstr ""
+
+#: includes/addthis-share.php:398
+msgid ""
+"Access your Google bookmarks from any computer Google Bookmarks lets you "
+"save shortcuts to your favorite webpages and navigate to them in seconds. "
+"Unlike browser bookmarks that are stored on a single computer, Google "
+"bookmarks are stored in your Google Account. This means you can access them "
+"from any computer with an Internet connection from the Google Toolbar, the "
+"Google Bookmarks iGoogle gadget, or the Google Bookmarks homepage."
+msgstr ""
+
+#: includes/addthis-share.php:404
+msgid ""
+"Classroom is a new tool in Google Apps for Education that helps teachers "
+"create and organize assignments quickly, provide feedback efficiently, and "
+"easily communicate with their classes."
+msgstr ""
+
+#: includes/addthis-share.php:410
+msgid ""
+"Google's free online language translation service instantly translates text "
+"and web pages. Supports over 40 languages."
+msgstr ""
+
+#: includes/addthis-share.php:416
+msgid ""
+"Hacker News is a social news website focusing on computer science and "
+"entrepreneurship. It is run by Paul Graham's investment fund and startup "
+"incubator, Y Combinator. In general, content that can be submitted is "
+"defined as &quot;anything that gratifies one's intellectual curiosity&quot;."
+msgstr ""
+
+#: includes/addthis-share.php:422
+msgid ""
+"Japan's largest bookmarking service to save and share Japanese news, blogs "
+"and websites."
+msgstr ""
+
+#: includes/addthis-share.php:428
+msgid ""
+"Hedgehogs.net is a social application platform for the hedge fund and "
+"investment community."
+msgstr ""
+
+#: includes/addthis-share.php:434
+msgid ""
+"historious saves you time by helping you find webpages you saw before. "
+"Bookmark sites with a single click, then find them again by searching for "
+"any word in the content of the page!"
+msgstr ""
+
+#: includes/addthis-share.php:440
+msgid ""
+"HootSuite SocialShare helps individuals share and schedule content from "
+"wherever they are to multiple social networks simultaneously."
+msgstr ""
+
+#: includes/addthis-share.php:446
+msgid ""
+"Houzz is a platform for home remodeling and design, bringing homeowners and "
+"home professionals together in a uniquely visual community."
+msgstr ""
+
+#: includes/addthis-share.php:452
+msgid ""
+"The Markup Validator is a free service by W3C that helps check the validity "
+"of Web documents."
+msgstr ""
+
+#: includes/addthis-share.php:458
+msgid ""
+"Its time time to change the way you browse! Indexor provides a personalized "
+"homepage service that lets users quickly and easily bookmark there "
+"favourite websites."
+msgstr ""
+
+#: includes/addthis-share.php:464
+msgid ""
+"Save pages for reading later, then read them when you have time with your "
+"web browser, iPhone, or e-reader."
+msgstr ""
+
+#: includes/addthis-share.php:470
+msgid ""
+"iOrbix is a Social Network where you find friends, share videos, make your "
+"business, discuss on forums, plan parties and play games."
+msgstr ""
+
+#: includes/addthis-share.php:476
+msgid "Jappy.de is a german social network"
+msgstr ""
+
+#: includes/addthis-share.php:482
+msgid "Kaixin Repaste is the biggest social network service in China."
+msgstr ""
+
+#: includes/addthis-share.php:488 includes/addthis-share.php:494
+msgid ""
+"Kakao Talk is a multi-platform texting app that allows iPhone, Android, and "
+"BlackBerry users to send and receive messages for free."
+msgstr ""
+
+#: includes/addthis-share.php:500
+msgid ""
+"Ketnooi is one of the most popular Vietnam social networks, and best "
+"multi-function forums in Vietnam. You can share, play games, download "
+"videos and more."
+msgstr ""
+
+#: includes/addthis-share.php:506
+msgid ""
+"Kindle It lets you send articles you find on the web to your Kindle or "
+"other e-reader for easy reading."
+msgstr ""
+
+#: includes/addthis-share.php:512
+msgid ""
+"Kledy.de is a social news and bookmark service. Users can share your "
+"favorite web sites for free. Kledy.de also provides a bookmark script "
+"generator, buttons to link with your own website, microblogging, webcam "
+"chat, shopping (with price comparison) and much more."
+msgstr ""
+
+#: includes/addthis-share.php:518
+msgid ""
+"LiDAR-Online.com is a web platform to market LiDAR, GIS data under login "
+"control and security systems. It is based in Dielmo Server Technology to "
+"provide services for displaying, using and downloading Geospatial data "
+"(Point clouds, Raster, Files) on the Internet in an intuitive user "
+"interface."
+msgstr ""
+
+#: includes/addthis-share.php:524
+msgid ""
+"LINE is a communication app which allows you to make free voice calls and "
+"send free messages whenever and wherever you are, 24 hours a day!"
+msgstr ""
+
+#: includes/addthis-share.php:530
+msgid ""
+"LinkedIn is a business-oriented social networking site that connects "
+"experienced professionals around the world, representing 170 industries and "
+"200 countries."
+msgstr ""
+
+#: includes/addthis-share.php:536
+msgid "Linkuj.cz is a Czech social sharing community."
+msgstr ""
+
+#: includes/addthis-share.php:542
+msgid ""
+"LiveJournal is a community publishing platform, willfully blurring the "
+"lines between blogging and social networking. LiveJournal has been home to "
+"a wide array of creative individuals looking to share common interests, "
+"meet new friends, and express themselves."
+msgstr ""
+
+#: includes/addthis-share.php:548
+msgid ""
+"Mail.Ru is a Russian Internet company. It was started in 1998 as an e-mail "
+"service and went on to become a major corporate figure in the "
+"Russian-speaking segment of the Internet, comprising e-mail, instant "
+"messenger and online games."
+msgstr ""
+
+#: includes/addthis-share.php:554
+msgid ""
+"Margarine is a social bookmarking site. Use it to save bookmarks, browse "
+"other's bookmarks, and make friends."
+msgstr ""
+
+#: includes/addthis-share.php:560
+msgid ""
+"Markme is a site that allows you to easily create bookmarks that are stored "
+"online to your profile. Your friends or colleagues are able to easily "
+"follow your links, while interacting with them in many ways."
+msgstr ""
+
+#: includes/addthis-share.php:566
+msgid ""
+"MeinVZ is a social networking platform for students (in particular for "
+"college and university students in Europe) and is based in Berlin, Germany. "
+"The name is an abbreviation of the German expression Studentenverzeichnis, "
+"which means students' directory."
+msgstr ""
+
+#: includes/addthis-share.php:572
+msgid ""
+"Memonic is a free, web based note-taking software. Keep more than just "
+"Bookmarks! Clip any web content and make good use of it. Memonic is your "
+"living, breathing notebook."
+msgstr ""
+
+#: includes/addthis-share.php:578
+msgid ""
+"Mendeley is a free reference manager and academic social network that can "
+"help you organize your research, collaborate with others online, and "
+"discover the latest research."
+msgstr ""
+
+#: includes/addthis-share.php:584
+msgid ""
+"Menéame is a social bookmarking destination where subscribers send stories "
+"and other users can vote. Voted content is promoted to the homepage."
+msgstr ""
+
+#: includes/addthis-share.php:590
+msgid ""
+"Instantly reach the people in your life, for free. Messenger is just like "
+"texting, but you don't have to pay for every message (it works with your "
+"data plan)."
+msgstr ""
+
+#: includes/addthis-share.php:596
+msgid ""
+"StumbleUpon discovers web sites based on your interests, learns what you "
+"like and brings you more."
+msgstr ""
+
+#: includes/addthis-share.php:602
+msgid ""
+"Mixi is a Social Networking Service that allows friends to connect in a "
+"fun, convenient way. Mixi users now exceed 27.1 million and has expanded "
+"into a communication infrastructure."
+msgstr ""
+
+#: includes/addthis-share.php:608
+msgid "Moemesto.ru is a popular bookmarking service in Russia."
+msgstr ""
+
+#: includes/addthis-share.php:614
+msgid ""
+"MRCNetwork selects the most interesting news through a collaborative social "
+"publishing application: users themselves submit their own favorite news and "
+"use a voting system."
+msgstr ""
+
+#: includes/addthis-share.php:620
+msgid ""
+"Myspace is a social networking website with an interactive, user-submitted "
+"network of friends, personal profiles, blogs, groups, photos, music, and "
+"videos for teenagers and adults internationally."
+msgstr ""
+
+#: includes/addthis-share.php:626
+msgid ""
+"myVidster is a social video sharing and bookmarking site that lets you "
+"collect and share your favorite videos you find on the web. You can also "
+"explore and follow video collections from other users using myVidster."
+msgstr ""
+
+#: includes/addthis-share.php:632
+msgid ""
+"N4G is a social game news site that covers the game industry 24 hours a "
+"day, 7 days a week."
+msgstr ""
+
+#: includes/addthis-share.php:638
+msgid ""
+"Nasza-klasa.pl, is a large Polish school-based social networking service "
+"used by alumni and students."
+msgstr ""
+
+#: includes/addthis-share.php:644
+msgid ""
+"Netvibes allows you to see everything that’s happening: News, social media, "
+"favorite websites, apps and smart devices all in one dashboard."
+msgstr ""
+
+#: includes/addthis-share.php:650
+msgid ""
+"Netvouz is a social bookmark manager where you can store your favorite "
+"links online and access them from any computer."
+msgstr ""
+
+#: includes/addthis-share.php:656
+msgid ""
+"Newsvine is a community-powered, collaborative journalism news website "
+"which draws content from its users and syndicated content from mainstream "
+"sources such as The Associated Press. Users can write articles, seed links "
+"to external content, and discuss news items submitted by both users and "
+"professional journalists."
+msgstr ""
+
+#: includes/addthis-share.php:662
+msgid ""
+"On NUjij, readers are the editors. Anyone can link to interesting, fun and "
+"exciting items, and respond to the news of the day. "
+msgstr ""
+
+#: includes/addthis-share.php:668
+msgid ""
+"Nurses Lounge is a professional network for nurses. Nurses can choose to "
+"stay connected and informed to the people, organizations, and information "
+"important to their careers."
+msgstr ""
+
+#: includes/addthis-share.php:674
+msgid "OK.ru is a Russian social network service for classmates and old friends."
+msgstr ""
+
+#: includes/addthis-share.php:680
+msgid ""
+"Oknotizie is an italian social publishing system where users can suggest "
+"news items or other resources they find interesting around the net."
+msgstr ""
+
+#: includes/addthis-share.php:686
+msgid ""
+"Quickly capture any webpage to OneNote, where you can easily edit, "
+"annotate, or share it."
+msgstr ""
+
+#: includes/addthis-share.php:692
+msgid ""
+"OpenTheDoor is a place for people to discover and share content from "
+"anywhere on the web."
+msgstr ""
+
+#: includes/addthis-share.php:698
+msgid ""
+"Email by Microsoft, with address book. Windows Live Hotmail is a best in "
+"class e-mail service that helps you organize and manage all your email."
+msgstr ""
+
+#: includes/addthis-share.php:704
+msgid ""
+"Oyyla is a turkish social news website made for people to discover and "
+"share content from anywhere on the Internet, by submitting links and "
+"stories, and voting and commenting on submitted links and stories."
+msgstr ""
+
+#: includes/addthis-share.php:710
+msgid ""
+"Pafnet.de is a leading German social network with 200,000 registered "
+"members discussing regional and local events."
+msgstr ""
+
+#: includes/addthis-share.php:716
+msgid ""
+"Harness the power of your biggest fans by letting them fund your ongoing "
+"content creation with a monthly subscription amount of their choice."
+msgstr ""
+
+#: includes/addthis-share.php:722
+msgid ""
+"Create your link, share it, and start receiving money. Split a bill with "
+"friends or accept payments from customers. Anyone can use it."
+msgstr ""
+
+#: includes/addthis-share.php:728
+msgid ""
+"PDFmyURL is a new free tool that lets you convert any url / webpage to a "
+".pdf and download it instantly. PDF's look excactly like the webpage, it "
+"renders all css and javascript"
+msgstr ""
+
+#: includes/addthis-share.php:734
+msgid ""
+"Pinboard is a fast, no-nonsense bookmarking site for people who value "
+"privacy and speed."
+msgstr ""
+
+#: includes/addthis-share.php:740
+msgid ""
+"Pinterest lets you organize and share all the beautiful things you find on "
+"the web. People use pinboards to plan their weddings, decorate their homes, "
+"and organize their favorite recipes. Best of all, you can browse pinboards "
+"created by other people. Browsing pinboards is a fun way to discover new "
+"things and get inspiration from people who share your interests."
+msgstr ""
+
+#: includes/addthis-share.php:746
+msgid ""
+"Plurk is a social journal for your life. Share your life easily with "
+"friends, family and fans."
+msgstr ""
+
+#: includes/addthis-share.php:752
+msgid ""
+"When you find something you want to view later, put it in Pocket. Save "
+"directly from your browser or from apps like Twitter, Flipboard, Pulse and "
+"Zite."
+msgstr ""
+
+#: includes/addthis-share.php:758
+msgid ""
+"Posteezy is a microblogging and link sharing startup that lets you post "
+"anything with no login."
+msgstr ""
+
+#: includes/addthis-share.php:764
+msgid "Addthis menu print service."
+msgstr ""
+
+#: includes/addthis-share.php:770
+msgid ""
+"PrintFriendly makes printing on the web better. You'll save paper and ink, "
+"plus get great looking documents."
+msgstr ""
+
+#: includes/addthis-share.php:776
+msgid ""
+"Pusha is a place where the members themselves decide the content by "
+"sharing, voting on, and discussing fun and interesting links."
+msgstr ""
+
+#: includes/addthis-share.php:782
+msgid ""
+"QRSrc allows you to create and share QR Codes for text, url, sms, phone "
+"numbers."
+msgstr ""
+
+#: includes/addthis-share.php:788
+msgid ""
+"Quantcast provides audience and demographic data for over 100 million web "
+"and mobile destinations that have opted to participate in Quantcast Measure."
+msgstr ""
+
+#: includes/addthis-share.php:794
+msgid "Qzone is the largest social networking site in China with 500 million users."
+msgstr ""
+
+#: includes/addthis-share.php:800
+msgid ""
+"Reddit is a social news website on which users can post links to content on "
+"the Internet. Other users may then vote the posted links up or down, "
+"causing them to become more or less prominent on the home page."
+msgstr ""
+
+#: includes/addthis-share.php:806
+msgid ""
+"Rediff MyPage helps you connect with people who matter and stay updated by "
+"sharing instant info, photos, and more."
+msgstr ""
+
+#: includes/addthis-share.php:812
+msgid ""
+"The Renren Network is a Chinese social networking service popular among "
+"college students."
+msgstr ""
+
+#: includes/addthis-share.php:818
+msgid ""
+"ResearchGate allows you to network with the largest global community "
+"dedicated to science and research: we help you to expand your contacts, "
+"share knowledge and find potential research partners."
+msgstr ""
+
+#: includes/addthis-share.php:824
+msgid ""
+"Safelinking.net is an online service, free of charge, that provides "
+"Internet users with a facility that helps them hiding their links (URL) "
+"when they are being shared online, particularly on social networks."
+msgstr ""
+
+#: includes/addthis-share.php:830
+msgid ""
+"Scoop.it is a content marketing software company. The company operates the "
+"Scoop.it platform, a content curation service, and markets its software to "
+"businesses."
+msgstr ""
+
+#: includes/addthis-share.php:836
+msgid ""
+"Sina Weibo is a Chinese microblogging website. Akin to a hybrid of sites "
+"Facebook and Twitter, it is one of the most popular sites in China, in use "
+"by well over 30% of Internet users, with a market penetration similar to "
+"the United States' Twitter."
+msgstr ""
+
+#: includes/addthis-share.php:842
+msgid ""
+"Skype keeps the world talking. Video call, message and share with anyone "
+"for free, even if they're not on Skype."
+msgstr ""
+
+#: includes/addthis-share.php:848
+msgid ""
+"Skyrock.com is a social networking site based in France that offers a free "
+"space on the web to allow its users to create blogs, add profiles, and "
+"exchange messages with other registered members."
+msgstr ""
+
+#: includes/addthis-share.php:854
+msgid ""
+"Slack brings all your communication together in one place. It's real-time "
+"messaging, archiving and search for modern teams."
+msgstr ""
+
+#: includes/addthis-share.php:860
+msgid "Share in a text message."
+msgstr ""
+
+#: includes/addthis-share.php:866
+msgid ""
+"SodaHead is a self-described 'opinion site' that allows creation of polls "
+"and questions which can be used to gather the opinions of other users."
+msgstr ""
+
+#: includes/addthis-share.php:872
+msgid ""
+"SpinSnap.com is a Discovery Engine.  SpinSnap allows you to discover and "
+"share new and exciting websites, music, videos and daily deals.  Most "
+"people discover websites they would not normally encounter in their "
+"everyday internet travels."
+msgstr ""
+
+#: includes/addthis-share.php:878
+msgid ""
+"StartAid is perfect for saving all your Bookmarks and Favorites Online. You "
+"can quickly access your Bookmarks and Favorites from any computer and best "
+"of all, you will never lose a site again."
+msgstr ""
+
+#: includes/addthis-share.php:884
+msgid ""
+"Startlap is a bookmarking service allowing users to tag, save, and manage "
+"their saved links. It also provides interesting websites (categorized by "
+"favorite tags, searchable by keywords) and a daily updated list of favorite "
+"sites based on the most saved links."
+msgstr ""
+
+#: includes/addthis-share.php:890
+msgid ""
+"studiVZ.net is a german social network that enables students to exchange "
+"information."
+msgstr ""
+
+#: includes/addthis-share.php:896
+msgid ""
+"Share the latest products, deals and offers you find online with your "
+"followers and earn money everytime they make a purchase."
+msgstr ""
+
+#: includes/addthis-share.php:902
+msgid ""
+"Stumpedia.com is a social search engine that relies on human participation "
+"to index, organize, and review the world wide web."
+msgstr ""
+
+#: includes/addthis-share.php:908
+msgid ""
+"Surfingbird is a web-page recommendation system that makes internet surfing "
+"easy and convenient."
+msgstr ""
+
+#: includes/addthis-share.php:914
+msgid ""
+"Bulgarian social news website made for people to discover and share content "
+"from anywhere on the Internet, by submitting links and stories, and voting "
+"and commenting on submitted links and stories."
+msgstr ""
+
+#: includes/addthis-share.php:920
+msgid ""
+"Symbaloo is a visual bookmarking tool that makes it simple and fun to "
+"organize the best of the web. You have all your favorite websites at your "
+"fingertips. With an account you can access your bookmarks from everywhere "
+"with any device and share your online resources with others."
+msgstr ""
+
+#: includes/addthis-share.php:926
+msgid ""
+"Taringa! is an information sharing community where the users create the "
+"content together and vote on what they like the most."
+msgstr ""
+
+#: includes/addthis-share.php:932
+msgid ""
+"Telegram is a cloud-based mobile and desktop messaging app with a focus on "
+"security and speed."
+msgstr ""
+
+#: includes/addthis-share.php:938
+msgid ""
+"Tencent QQ is a Chinese instant messaging service. QQ also offers services "
+"that provide online social games, music, shopping, microblogging, movies, "
+"and group and voice chat."
+msgstr ""
+
+#: includes/addthis-share.php:944
+msgid "Tencent Weibo is a Chinese microblogging website launched by Tencent."
+msgstr ""
+
+#: includes/addthis-share.php:950
+msgid ""
+"Trello lets you work more collaboratively and get more done. Trello’s "
+"boards, lists, and cards enable you to organize and prioritize your "
+"projects in a fun, flexible and rewarding way."
+msgstr ""
+
+#: includes/addthis-share.php:956
+msgid ""
+"Tuenti is a social networking platform that is designed to improve "
+"communication and information sharing between people who know each other. "
+"It is a private platform so you can only register if you've received an "
+"invitation from another user."
+msgstr ""
+
+#: includes/addthis-share.php:962
+msgid ""
+"Tumblr lets you effortlessly share anything. Post text, photos, quotes, "
+"links, music, and videos, from your browser, phone, desktop, email, or "
+"wherever you happen to be. You can customize everything, from colors, to "
+"your theme's HTML. "
+msgstr ""
+
+#: includes/addthis-share.php:968
+msgid ""
+"Twitter is a free social networking and micro-blogging service that enables "
+"its users to send and read messages known as tweets. Tweets are text-based "
+"posts of up to 140 characters displayed on the author's profile page and "
+"delivered to the author's subscribers who are known as followers. "
+msgstr ""
+
+#: includes/addthis-share.php:974
+msgid ""
+"TypePad is the premier blogging service for professionals and small "
+"businesses. TypePad hosts many popular blogs and small business websites."
+msgstr ""
+
+#: includes/addthis-share.php:980
+msgid "Urlaubswerk is a German travel site, similar to TripAdvisor."
+msgstr ""
+
+#: includes/addthis-share.php:986
+msgid ""
+"Venmo is a mobile payment service. It allows users to transfer money "
+"between one another using a mobile phone app or web interface. Venmo "
+"currently has around 203 million active users."
+msgstr ""
+
+#: includes/addthis-share.php:992
+msgid ""
+"Viadeo is a business and social networking tool to develop your business "
+"and career."
+msgstr ""
+
+#: includes/addthis-share.php:998
+msgid ""
+"Viber is a mobile application that allows you to make phone calls and send "
+"text messages to all other Viber users for free."
+msgstr ""
+
+#: includes/addthis-share.php:1004
+msgid "Virb lets you build your own website quickly and easily. "
+msgstr ""
+
+#: includes/addthis-share.php:1010
+msgid ""
+"VisitezMonSite is a French bookmarking site, similar to Digg, that allows "
+"users to vote on content submitted by other users."
+msgstr ""
+
+#: includes/addthis-share.php:1016
+msgid ""
+"VKontakte.ru is the most popular social network service in Russia, Ukraine, "
+"Belarus and Kazakhstan."
+msgstr ""
+
+#: includes/addthis-share.php:1022
+msgid ""
+"vKrurguDruzei.ru is one of the oldest Russian-language social network "
+"services for classmates and friends, popular in Russia, Ukraine, Belarus, "
+"Kazakhstan and other countries. The website allows you to keep in touch "
+"with friends, get to know new friends, learn more about the people that you "
+"meet, upload an unlimited number of photos, and exchange audio and video "
+"content."
+msgstr ""
+
+#: includes/addthis-share.php:1028
+msgid "The most popular bookmarking service in Slovakia and Czech republic."
+msgstr ""
+
+#: includes/addthis-share.php:1034
+msgid ""
+"Wanelo is a community for all of the world's shopping. It brings together "
+"all stores and products into a single social platform, unfettered by "
+"advertising. You can buy almost everything you see on Wanelo, and "
+"everything is posted by users."
+msgstr ""
+
+#: includes/addthis-share.php:1040
+msgid ""
+"Internet Archive is a non-profit digital library offering free universal "
+"access to books, movies, music, as well as 439 billion archived web pages."
+msgstr ""
+
+#: includes/addthis-share.php:1046
+msgid "We Heart It is your home for inspiring images and the people who heart them."
+msgstr ""
+
+#: includes/addthis-share.php:1052
+msgid "Social network for WebMoney Transfer's users."
+msgstr ""
+
+#: includes/addthis-share.php:1058
+msgid ""
+"WeChat is a free messaging &amp; calling app that allows you to easily "
+"connect with family &amp; friends across countries."
+msgstr ""
+
+#: includes/addthis-share.php:1064
+msgid ""
+"WhatsApp Messenger is a cross-platform mobile messaging app which allows "
+"you to exchange messages without having to pay for SMS."
+msgstr ""
+
+#: includes/addthis-share.php:1070
+msgid ""
+"WHOIS is a utility used to look up information on domain names. This "
+"includes contact information as well as some technical information such as "
+"the domain's name servers (DNS) used for service, and certain status "
+"information such as if the domain is locked."
+msgstr ""
+
+#: includes/addthis-share.php:1076
+msgid ""
+"WishMindr is a free wish list maker and reminders service for any occasion. "
+"Once a list is created, you can easily add contacts from Yahoo! or Gmail "
+"accounts and set-up automatic reminder emails for your wish list, just in "
+"time for the occasion."
+msgstr ""
+
+#: includes/addthis-share.php:1082
+msgid ""
+"A semantic personal publishing platform with a focus on aesthetics, web "
+"standards, and usability."
+msgstr ""
+
+#: includes/addthis-share.php:1088
+msgid ""
+"wykop.pl is a Polish social networking service. It is modeled after the "
+"American website digg.com (wykop in Polish language means unearth! or dig "
+"out!), it's also very similar to reddit.com."
+msgstr ""
+
+#: includes/addthis-share.php:1094
+msgid ""
+"Around the world every day, over 9 million business professionals use XING, "
+"the global business network,  in 16 languages to do business and promote "
+"their career."
+msgstr ""
+
+#: includes/addthis-share.php:1100
+msgid "Email by Yahoo, with address book."
+msgstr ""
+
+#: includes/addthis-share.php:1106
+msgid ""
+"Yammer is a tool for making companies and organizations more productive "
+"through the exchange of short frequent answers to one simple question: "
+"'What are you working on?'"
+msgstr ""
+
+#: includes/addthis-share.php:1112
+msgid ""
+"YoolinkPro is a customizable communication platform that enables you to "
+"create a corporate social network, to easily manage external communities or "
+"to boost your team productivity. Share with your external networks’ members "
+"(clients, suppliers, etc.) without giving them access."
+msgstr ""
+
+#: includes/addthis-share.php:1118
+msgid ""
+"Yummly is a mobile app and website that provides recipe recommendations "
+"personalized to the individual's tastes, semantic recipe search, a digital "
+"recipe box, shopping list and one-hour grocery delivery."
+msgstr ""
+
+#: includes/addthis-share.php:1124
+msgid ""
+"Yuuby is a social network. You can meet friends, share photos, links, "
+"comments and more."
+msgstr ""
+
+#: includes/addthis-share.php:1130
+msgid ""
+"Zakladok.net lets you save public and personal bookmarks, exchange "
+"bookmarks, and comment on bookmarks of other users. Zakladok.net shares the "
+"user base of Interesno.com social network, so if you're registered on "
+"either of them - you can use both."
+msgstr ""
+
+#: includes/addthis-share.php:1136
+msgid "ZicZac is one of the most popular Social News websites in Italy"
+msgstr ""
+
+#: includes/addthis-share.php:1142
+msgid ""
+"Zing Me is the largest social network in Vietnam. Zing Me is a product of "
+"VNG Corporation."
+msgstr ""
+
+#: sp-mdl-social-sharing.php:137 sp-mdl-social-sharing.php:147
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: sp-mdl-social-sharing.php:212
+msgid "Social Sharing - AddThis Tools"
+msgstr ""
+
+#: sp-mdl-social-sharing.php:213
+msgid ""
+"AddThis free website tools include share buttons, targeting tools and "
+"content recommendations help you get more likes, shares and followers and "
+"keep them ..."
+msgstr ""
+
+#: sp-mdl-social-sharing.php:221
+msgid "Dashboard:"
+msgstr ""
+
+#: sp-mdl-social-sharing.php:228
+msgid "Enable AddThis scripts"
+msgstr ""
+
+#: sp-mdl-social-sharing.php:237
+msgid "Pub ID"
+msgstr ""
+
+#: sp-mdl-social-sharing.php:238
+msgid "Use your own PubID to keep tracking all your sharing activity and analytics."
+msgstr ""
+
+#: sp-mdl-social-sharing.php:269
+msgid "Show floating share buttons"
+msgstr ""
+
+#: sp-mdl-social-sharing.php:300
+msgid "Show + icon for the AddThis sharing menu"
+msgstr ""
+
+#: sp-mdl-social-sharing.php:316
+msgid "Smart Sorting by AddThis"
+msgstr ""
+
+#: sp-mdl-social-sharing.php:333
+msgid ""
+"Each of your website visitors will see the social networks that they "
+"interact with most frequently."
+msgstr ""
+
+#: sp-mdl-social-sharing.php:352
+msgid "Select your own social networks and customize the order."
+msgstr ""
+
+#: sp-mdl-social-sharing.php:371
+msgid "Try to select not more 10 services :)"
+msgstr ""
+
+#: sp-mdl-social-sharing.php:456
+msgid "Share:"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "MDL Social Sharing"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://sunnypixels.io/extension/mdl-social-sharing/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "A simple plugin to add social share buttons to your posts."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "SunnyPixels"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://sunnypixels.io/"
+msgstr ""

@@ -10,6 +10,7 @@
     "build-css": "./node_modules/grunt/bin/grunt build-css",
     "makepot": "./node_modules/grunt/bin/grunt makepot",
     "textdomain": "./node_modules/grunt/bin/grunt textdomain",
+    "addtextdomain": "./node_modules/grunt/bin/grunt addtextdomain",
     "build-archive": "./node_modules/grunt/bin/grunt build-archive",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
