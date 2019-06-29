@@ -184,8 +184,8 @@ final class SP_MDL_Social_Sharing
             //add_filter('sp_localize_array', array($this, 'localize_array'));
             add_action('wp_enqueue_scripts', array($this, 'public_scripts'), 10);
 
-            add_action('material_design_lite_share_buttons_top', array($this, 'get_share_buttons_top'), 10);
-            add_action('material_design_lite_share_buttons_footer', array($this, 'get_share_buttons_footer'), 10);
+            add_action('sp_mdl_share_buttons_top', array($this, 'get_share_buttons_top'), 10);
+            add_action('sp_mdl_share_buttons_footer', array($this, 'get_share_buttons_footer'), 10);
             add_action('wp_footer', array($this, 'get_share_buttons_floating'), 10);
 
             // if (is_admin()) {
@@ -208,7 +208,7 @@ final class SP_MDL_Social_Sharing
              * AddThis Tools
              * @since 1.0.0
              */
-            Kirki::add_section('material_design_lite_theme_addthis_tools', array(
+            Kirki::add_section('sp_mdl_theme_addthis_tools', array(
                 'title' => esc_html__('Social Sharing - AddThis Tools', 'material-design-lite'),
                 'description' => esc_html__('AddThis free website tools include share buttons, targeting tools and content recommendations help you get more likes, shares and followers and keep them ...', 'material-design-lite'),
                 'priority' => 198,
@@ -217,7 +217,7 @@ final class SP_MDL_Social_Sharing
             Kirki::add_field('material_design_lite', [
                 'type' => 'custom',
                 'settings' => 'addthis_tools_title_dashboard_link',
-                'section' => 'material_design_lite_theme_addthis_tools',
+                'section' => 'sp_mdl_theme_addthis_tools',
                 'default' => __('Dashboard:', 'material-design-lite') . ' <a href="https://www.addthis.com/dashboard" target="_blank">www.addthis.com</a>',
                 'priority' => 110,
             ]);
@@ -226,7 +226,7 @@ final class SP_MDL_Social_Sharing
                 'type' => 'toggle',
                 'settings' => 'addthis_tools_enable',
                 'label' => esc_html__('Enable AddThis scripts', 'material-design-lite'),
-                'section' => 'material_design_lite_theme_addthis_tools',
+                'section' => 'sp_mdl_theme_addthis_tools',
                 'default' => '1',
                 'priority' => 120,
             ]);
@@ -236,7 +236,7 @@ final class SP_MDL_Social_Sharing
                 'settings' => 'addthis_tools_pubid',
                 'label' => esc_html__('Pub ID', 'material-design-lite'),
                 'description' => esc_html__('Use your own PubID to keep tracking all your sharing activity and analytics.', 'material-design-lite'),
-                'section' => 'material_design_lite_theme_addthis_tools',
+                'section' => 'sp_mdl_theme_addthis_tools',
                 'default' => '',
                 'priority' => 121,
                 'active_callback' => [
@@ -251,7 +251,7 @@ final class SP_MDL_Social_Sharing
             Kirki::add_field('material_design_lite', [
                 'type' => 'custom',
                 'settings' => 'addthis_tools_title_share_buttons',
-                'section' => 'material_design_lite_theme_addthis_tools',
+                'section' => 'sp_mdl_theme_addthis_tools',
                 'default' => kirki_custom_title('Share buttons'),
                 'priority' => 125,
                 'active_callback' => [
@@ -267,7 +267,7 @@ final class SP_MDL_Social_Sharing
                 'type' => 'toggle',
                 'settings' => 'addthis_tools_share_buttons_floating',
                 'label' => esc_html__('Show floating share buttons', 'material-design-lite'),
-                'section' => 'material_design_lite_theme_addthis_tools',
+                'section' => 'sp_mdl_theme_addthis_tools',
                 'default' => '1',
                 'priority' => 126,
                 'active_callback' => [
@@ -282,7 +282,7 @@ final class SP_MDL_Social_Sharing
             Kirki::add_field('material_design_lite', [
                 'type' => 'custom',
                 'settings' => 'addthis_tools_title_sharing_services',
-                'section' => 'material_design_lite_theme_addthis_tools',
+                'section' => 'sp_mdl_theme_addthis_tools',
                 'default' => kirki_custom_title('Sharing Services'),
                 'priority' => 130,
                 'active_callback' => [
@@ -298,7 +298,7 @@ final class SP_MDL_Social_Sharing
                 'type' => 'toggle',
                 'settings' => 'addthis_tools_compact',
                 'label' => esc_html__('Show + icon for the AddThis sharing menu', 'material-design-lite'),
-                'section' => 'material_design_lite_theme_addthis_tools',
+                'section' => 'sp_mdl_theme_addthis_tools',
                 'default' => '1',
                 'priority' => 140,
                 'active_callback' => [
@@ -314,7 +314,7 @@ final class SP_MDL_Social_Sharing
                 'type' => 'toggle',
                 'settings' => 'addthis_tools_smart_sorting',
                 'label' => esc_html__('Smart Sorting by AddThis', 'material-design-lite'),
-                'section' => 'material_design_lite_theme_addthis_tools',
+                'section' => 'sp_mdl_theme_addthis_tools',
                 'default' => '1',
                 'priority' => 141,
                 'active_callback' => [
@@ -329,7 +329,7 @@ final class SP_MDL_Social_Sharing
             Kirki::add_field('material_design_lite', [
                 'type' => 'custom',
                 'settings' => 'addthis_tools_smart_sorting_enabled',
-                'section' => 'material_design_lite_theme_addthis_tools',
+                'section' => 'sp_mdl_theme_addthis_tools',
                 'default' => __('Each of your website visitors will see the social networks that they interact with most frequently.', 'material-design-lite'),
                 'priority' => 142,
                 'active_callback' => [
@@ -348,7 +348,7 @@ final class SP_MDL_Social_Sharing
             Kirki::add_field('material_design_lite', [
                 'type' => 'custom',
                 'settings' => 'addthis_tools_smart_sorting_disabled',
-                'section' => 'material_design_lite_theme_addthis_tools',
+                'section' => 'sp_mdl_theme_addthis_tools',
                 'default' => __('Select your own social networks and customize the order.', 'material-design-lite'),
                 'priority' => 144,
                 'active_callback' => [
@@ -369,7 +369,7 @@ final class SP_MDL_Social_Sharing
                 'settings' => 'addthis_tools_sharing_services',
                 //'label'       => esc_html__( 'This is the label', 'material-design-lite' ),
                 'description' => esc_html__('Try to select not more 10 services :)', 'material-design-lite'),
-                'section' => 'material_design_lite_theme_addthis_tools',
+                'section' => 'sp_mdl_theme_addthis_tools',
                 'default' => [
                     'facebook',
                     'google',
