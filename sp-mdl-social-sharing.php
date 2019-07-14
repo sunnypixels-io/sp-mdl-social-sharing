@@ -534,8 +534,10 @@ final class SP_MDL_Social_Sharing
      */
     public function public_scripts()
     {
+        $min = sp_mdl_scripts_postfix();
+
         // Load main stylesheet
-        wp_enqueue_style('oss-social-share-style', plugins_url('/assets/css/public.css', __FILE__));
+        wp_enqueue_style('oss-social-share-style', plugins_url('/assets/css/public' . $min . '.css', __FILE__));
 
         // Load AddThis tools
         wp_enqueue_script('addthis', 'https://s7.addthis.com/js/300/addthis_widget.js', array(), null, true);
@@ -544,7 +546,7 @@ final class SP_MDL_Social_Sharing
         ));
 
         // Load main script
-        wp_enqueue_script('sp-mdl-social-share-script', plugins_url('/assets/js/public.js', __FILE__), array('jquery'), $this->version, true);
+        wp_enqueue_script('sp-mdl-social-share-script', plugins_url('/assets/js/public' . $min . '.js', __FILE__), array('jquery'), $this->version, true);
     }
 
     /**
@@ -554,11 +556,13 @@ final class SP_MDL_Social_Sharing
      */
     public function admin_scripts()
     {
+        $min = sp_mdl_scripts_postfix();
+
         // Load main stylesheet
-        wp_enqueue_style('sp-mdl-style', plugins_url('/assets/css/admin.css', __FILE__));
+        wp_enqueue_style('sp-mdl-style', plugins_url('/assets/css/admin' . $min . '.css', __FILE__));
 
         // Load custom js methods.
-        wp_enqueue_script('sp-mdl-social-share-js-admin', plugins_url('/assets/js/admin.js', __FILE__), array('jquery'), null, true);
+        wp_enqueue_script('sp-mdl-social-share-js-admin', plugins_url('/assets/js/admin' . $min . '.js', __FILE__), array('jquery'), null, true);
     }
 
 }

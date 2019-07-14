@@ -101,6 +101,7 @@ module.exports = function (grunt) {
                 src: [
                     '**',
                     '!.*',
+                    '!*.zip',
                     '!sass',
                     '!assets/css/*.dev.css',
                     '!assets/css/*.css.map',
