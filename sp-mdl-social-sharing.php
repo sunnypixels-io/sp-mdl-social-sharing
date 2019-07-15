@@ -214,7 +214,7 @@ final class SP_MDL_Social_Sharing
                 'priority' => 198,
             ));
 
-            Kirki::add_field('material_design_lite', [
+            Kirki::add_field('sp_mdl_theme', [
                 'type' => 'custom',
                 'settings' => 'addthis_tools_title_dashboard_link',
                 'section' => 'sp_mdl_theme_addthis_tools',
@@ -222,7 +222,7 @@ final class SP_MDL_Social_Sharing
                 'priority' => 110,
             ]);
 
-            Kirki::add_field('material_design_lite', [
+            Kirki::add_field('sp_mdl_theme', [
                 'type' => 'toggle',
                 'settings' => 'addthis_tools_enable',
                 'label' => esc_html__('Enable AddThis scripts', 'sp-mdl-social-sharing'),
@@ -231,7 +231,7 @@ final class SP_MDL_Social_Sharing
                 'priority' => 120,
             ]);
 
-            Kirki::add_field('material_design_lite', [
+            Kirki::add_field('sp_mdl_theme', [
                 'type' => 'text',
                 'settings' => 'addthis_tools_pubid',
                 'label' => esc_html__('Pub ID', 'sp-mdl-social-sharing'),
@@ -248,7 +248,7 @@ final class SP_MDL_Social_Sharing
                 ],
             ]);
 
-            Kirki::add_field('material_design_lite', [
+            Kirki::add_field('sp_mdl_theme', [
                 'type' => 'custom',
                 'settings' => 'addthis_tools_title_share_buttons',
                 'section' => 'sp_mdl_theme_addthis_tools',
@@ -263,7 +263,7 @@ final class SP_MDL_Social_Sharing
                 ],
             ]);
 
-            Kirki::add_field('material_design_lite', [
+            Kirki::add_field('sp_mdl_theme', [
                 'type' => 'toggle',
                 'settings' => 'addthis_tools_share_buttons_floating',
                 'label' => esc_html__('Show floating share buttons', 'sp-mdl-social-sharing'),
@@ -279,7 +279,7 @@ final class SP_MDL_Social_Sharing
                 ],
             ]);
 
-            Kirki::add_field('material_design_lite', [
+            Kirki::add_field('sp_mdl_theme', [
                 'type' => 'custom',
                 'settings' => 'addthis_tools_title_sharing_services',
                 'section' => 'sp_mdl_theme_addthis_tools',
@@ -294,7 +294,7 @@ final class SP_MDL_Social_Sharing
                 ],
             ]);
 
-            Kirki::add_field('material_design_lite', [
+            Kirki::add_field('sp_mdl_theme', [
                 'type' => 'toggle',
                 'settings' => 'addthis_tools_compact',
                 'label' => esc_html__('Show + icon for the AddThis sharing menu', 'sp-mdl-social-sharing'),
@@ -310,7 +310,7 @@ final class SP_MDL_Social_Sharing
                 ],
             ]);
 
-            Kirki::add_field('material_design_lite', [
+            Kirki::add_field('sp_mdl_theme', [
                 'type' => 'toggle',
                 'settings' => 'addthis_tools_smart_sorting',
                 'label' => esc_html__('Smart Sorting by AddThis', 'sp-mdl-social-sharing'),
@@ -326,7 +326,7 @@ final class SP_MDL_Social_Sharing
                 ],
             ]);
 
-            Kirki::add_field('material_design_lite', [
+            Kirki::add_field('sp_mdl_theme', [
                 'type' => 'custom',
                 'settings' => 'addthis_tools_smart_sorting_enabled',
                 'section' => 'sp_mdl_theme_addthis_tools',
@@ -345,7 +345,7 @@ final class SP_MDL_Social_Sharing
                 ],
             ]);
 
-            Kirki::add_field('material_design_lite', [
+            Kirki::add_field('sp_mdl_theme', [
                 'type' => 'custom',
                 'settings' => 'addthis_tools_smart_sorting_disabled',
                 'section' => 'sp_mdl_theme_addthis_tools',
@@ -364,7 +364,7 @@ final class SP_MDL_Social_Sharing
                 ],
             ]);
 
-            Kirki::add_field('material_design_lite', [
+            Kirki::add_field('sp_mdl_theme', [
                 'type' => 'sortable',
                 'settings' => 'addthis_tools_sharing_services',
                 //'label'       => esc_html__( 'This is the label', 'material-design-lite' ),
