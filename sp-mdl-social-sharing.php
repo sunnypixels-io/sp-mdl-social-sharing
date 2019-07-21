@@ -180,7 +180,7 @@ final class SP_MDL_Social_Sharing
     {
         $theme = wp_get_theme();
 
-        if ('Material Design Lite' == $theme->name || 'material-design-lite' == $theme->template) {
+        if ('SP MDL' == $theme->name || 'sp-mdl' == $theme->template) {
             //add_filter('sp_localize_array', array($this, 'localize_array'));
             add_action('wp_enqueue_scripts', array($this, 'public_scripts'), 10);
 
